@@ -1,4 +1,4 @@
-#  Text Summarizer using Transformers (HuggingFace)
+#  Text Summarizer using Transformers 
 
 This project demonstrates how to perform **abstractive text summarization** using the `transformers` library from HuggingFace. It allows you to input long text and generate a short, meaningful summary using pre-trained transformer models like `t5-small` or `bart-large-cnn`.
 
